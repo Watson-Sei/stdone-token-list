@@ -1,0 +1,19 @@
+{
+    "TokenInfo": [
+        {
+            "symbol": "WETH",
+            "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "icon": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
+        },
+        {
+            "symbol": "USDC",
+            "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "icon": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
+        },
+        {
+            "symbol": "JPYC",
+            "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+            "icon": "https://assets.coingecko.com/coins/images/17277/small/WoZ8rruL_400x400.png?1627016492"
+        }
+    ]
+}
